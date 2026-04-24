@@ -1,0 +1,6 @@
+{
+  "name": "Futuristic Portfolio Hero",
+  "description": "A hyper-detailed 3D portfolio hero scene featuring a geometric sculpture, interactive project cards, a Gemini-powered holographic assistant, and a custom Node.js Express backend to dynamically serve and manage new versions of resumes without frontend exposure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
